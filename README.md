@@ -1,2 +1,2 @@
-# Navbar-
+# Navbar
 Navbar Example
